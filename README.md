@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/CBGh0Yx.png" /></p>
 
-# Evil Limiter
+# `wisdom-king-rafhail` Evil Limiter
 
 [![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](PROJECT)
@@ -23,7 +23,7 @@ Possibly missing python packages will be installed during the installation proce
 ## Installation
 
 ```bash
-git clone https://github.com/bitbrute/evillimiter.git
+git clone https://github.com/rusdy-cyber/wisdom-king-rafhail.git
 cd evillimiter
 sudo python3 setup.py install
 ```
